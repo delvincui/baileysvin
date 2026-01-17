@@ -1,7 +1,7 @@
 {
-    "name": "Baileys Vin",
+    "name": "@yumenative/baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Vin",
+    "description": "WhatsApp API Modification By K",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/@delvincui/baileysvin",
+    "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
     "repository": {
-        "url": "https://www.npmjs.com/package/@baileys/baileysvin"
+        "url": "https://www.npmjs.com/package/@stvnnvs/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
